@@ -6,7 +6,7 @@
     "bootstrap": "^4.3.1",
     "d3": "^5.9.2",
     "fusioncharts": "^3.13.4",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "react": "^16.8.6",
     "react-bootstrap": "^1.0.0-beta.8",
     "react-calendar-heatmap": "^1.8.0",
